@@ -40,15 +40,15 @@ Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/t
 - [fowntain](https://github.com/fowntain)
 ### Deployment
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/template/h7StcI?referralCode=u82tqg)
-<a href="https://render.com/deploy?repo=[https://github.com/dogenetwork/v4](https://github.com/barryjensen-dev/Dodge-Unblocker-V4)">
+<a href="https://render.com/deploy?repo=https://github.com/barryjensen-dev/Dodge-Unblocker">
 <img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/main/buttons/remade/render.svg"></img></a>
-[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=[https://github.com/dogenetwork/v4](https://github.com/barryjensen-dev/Dodge-Unblocker-V4))
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/barryjensen-dev/Dodge-Unblocker-V4)
+[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=https://github.com/barryjensen-dev/Dodge-Unblocker)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/barryjensen-dev/Dodge-Unblocker)
 
 **Deploy locally:**
 ```
-git clone https://github.com/barryjensen-dev/Dodge-Unblocker-V4
-cd Dodge-Unblocker-V4
+git clone https://github.com/barryjensen-dev/Dodge-Unblocker
+cd Dodge-Unblocker
 npm install
 npm start
 ```
