@@ -54,8 +54,5 @@ npm start
 ```
 Or simply run the [`install.sh`](install.sh) file
 
-### Discord
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/unblocking)
-
 ### Commercial Use and Licensing
 This project is released to the public under the AGPL, meaning all users and contributors must comply with its terms and make the source code of any modified or distributed versions available under the AGPL. As the copyright holders, we (DogeNetwork) reserve the right to sublicense or use the software, including modified versions, for commercial purposes under separate proprietary terms, independent of the AGPL release.
